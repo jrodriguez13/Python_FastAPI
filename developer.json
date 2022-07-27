@@ -1,0 +1,31 @@
+{
+    "_id": 1,
+    "name": "Javi",
+    "country": "Belgium",
+    "age": 36,
+    "skills": [
+      {
+        "name": "Testing",
+        "years": 5
+      }
+    ],
+    "experience": [
+      {
+        "title": "QA Tester",
+        "location": "Argentina",
+        "start_date": "2017",
+        "end_date": "Present",
+        "organization": "Prisma MP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "native"
+      },
+      {
+        "name": "English",
+        "level": "intermediate"
+      }
+    ]
+  }
